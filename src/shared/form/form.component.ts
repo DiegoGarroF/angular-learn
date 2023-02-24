@@ -5,8 +5,6 @@ import {Component} from '@angular/core';
   styleUrls: ['form.component.scss'],
 })
 export class FormExample {
-  public name: string;
   constructor() {
-    this.name = 'Mi nombre es Pedro 123';
   }
 }
